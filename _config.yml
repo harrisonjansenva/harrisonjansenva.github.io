@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: [Harrison's Github!]
+title: Harrison's Github
 description: [This is a great way to finish out the CS155 class! I've enjoyed all of this part of it!]
 plugins:
   - jekyll-remote-theme
